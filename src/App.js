@@ -10,8 +10,8 @@ import Footer from './components/Footer/Footer';
 function App() {
   return (
     <div>
-      <Banner/>
       <Navbar/>
+      <Banner/>
       <Hero/>
       <OurMenu/>
       <Testimonials/>
